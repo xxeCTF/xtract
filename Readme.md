@@ -1,4 +1,4 @@
-# Firefox Plaintext Backup Script
+# Xtract, a Firefox Plaintext Backup Script.
 
 This script extracts your **saved passwords**, **bookmarks**, **history**, and **cookies** from Firefox and stores them in plaintext `.txt` files inside a backup directory.
 
