@@ -100,7 +100,7 @@ Disclaimer
 
 This script is for personal use only. It extracts sensitive data in plaintext — handle it responsibly.
 
-Do not use this on someone else’s profile without permission.
+Do not use this on someone else without permission.
 
 
 
